@@ -1,0 +1,34 @@
+site_name: 디지텍 위키
+theme:
+  name: material
+  language: ko
+  features:
+    - navigation.tabs
+    - navigation.expand
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.path
+    - navigation.top
+    - content.action.edit
+    - content.action.view
+  icon:
+    repo: fontawesome/brands/github
+    edit: material/pencil
+    view: material/eye
+plugins:
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: iso_date
+  - git-authors
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/digitech-wiki
+      name: github
+extra_css:
+  - stylesheets/extra.css
+repo_name: digitech-wiki
+repo_url: https://github.com/digitech-wiki/digitech-wiki
+edit_uri: edit/main/docs/
+copyright: Copyright &copy; 2023 Digitech-wiki. All right reserved. <br>This work is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><br>The maintainer of this wiki is <a href="https://www.github.com/gwongibeom">권기범</a>
