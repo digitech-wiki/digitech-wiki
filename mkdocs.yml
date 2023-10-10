@@ -17,6 +17,12 @@ theme:
     edit: material/pencil
     view: material/eye
 plugins:
+  - social:
+      cards_layout_options:
+      font_family: Noto Sans KR
+      background_color: blue # Change background color
+      background_image: null # Remove background image
+
   - git-revision-date-localized:
       enable_creation_date: true
 extra:
@@ -27,6 +33,7 @@ extra:
 extra_css:
   - stylesheets/extra.css
 repo_name: digitech-wiki
+site_url: https://digitech-wiki.gwon.us
 repo_url: https://github.com/digitech-wiki/digitech-wiki
 edit_uri: edit/main/docs/
 copyright: Copyright &copy; 2023 Digitech-wiki. All right reserved. <br>This work is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><br>The maintainer of this wiki is <a href="https://www.github.com/gwongibeom">권기범</a>
