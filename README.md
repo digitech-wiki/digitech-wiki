@@ -1,6 +1,6 @@
 # digitech-wiki📙
 
-**[접속하기⚡](digitech-wiki.gwon.us)**
+**[접속하기⚡](https://digitech-wiki.gwon.us)**
 
 서울디지텍고등학교 교내 위키인 디지텍 위키입니다.
 빠른개발, 용이한 편집 기록 열람을 위해 python 기반 공식문서 개발 라이브러리인 mkdocs와 mkdocs-material을 사용하여 개발하였습니다.
