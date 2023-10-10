@@ -17,9 +17,6 @@ theme:
     edit: material/pencil
     view: material/eye
 plugins:
-  - git-committers:
-      repository: digitech-wiki/digitech-wiki
-      branch: main
   - git-revision-date-localized:
       enable_creation_date: true
       type: iso_date

@@ -23,3 +23,7 @@
 ->
 
 ghPages로 배포 환경 변경
+
+## ghpages 수정 적용 성능 이슈
+
+ghpages 사용시
