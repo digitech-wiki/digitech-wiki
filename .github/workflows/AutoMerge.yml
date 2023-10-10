@@ -5,17 +5,13 @@ on:
     branches:
       - main/*
 jobs:
-  Run Actions:
+  run_actions:
     runs-on: ubuntu-latest
     steps:
       - name: Automatically Merge PR
         uses: plm9606/automerge_actions@1.2.2
         with:
-          # 이벤트를 트리거하고 싶은 라벨 이름을 설정합니다. 기본 이름은 "automerge" 입니다.
-          label-name: "위키-기여"
-          # 최소 리뷰어 수를 지정할 수 있습니다. 기본은 1명입니다.
+          label-name: '위키-기여'
           reviewers-number: 0
-          # "merge", "squash", "rebase" 중 한가지를 선택할 수 있습니다. 기본값은 "merge" 입니다
-          merge-method: "merge"
-          # GitHub WebHook Secret Token
+          merge-method: 'merge'
           github-token: ${{ secrets.AUTO_TOKEN }}
