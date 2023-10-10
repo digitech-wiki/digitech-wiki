@@ -13,3 +13,13 @@
 - `mkdocs serve` - Start the live-reloading docs server.
 - `mkdocs build` - Build the documentation site.
 - `mkdocs -h` - Print help message and exit.
+
+# 트러블 슈팅
+
+## 클라우드플레어 clone 문제
+
+클라우드플레어 페이지스 사용시 커밋기록을 다 가져오지 않고 코드만 가져오는 바람에 깃 커밋 기록 기반으로 작동하는 ``git-revision-date-localized-plugin`가 제대로 작동하지 않음
+
+->
+
+ghPages로 배포 환경 변경
