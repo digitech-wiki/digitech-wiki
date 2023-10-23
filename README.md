@@ -4,6 +4,8 @@
 
 **[접속하기⚡](https://digitech-wiki.gwon.us)**
 
+[![방문자수](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%230171BB&title_bg=%23FF0000&icon=googlescholar.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 서울디지텍고등학교 교내 위키인 디지텍 위키입니다.
 빠른개발, 용이한 편집 기록 열람을 위해 python 기반 공식문서 개발 라이브러리인 mkdocs와 mkdocs-material을 사용하여 개발하였습니다.
 
