@@ -1,6 +1,6 @@
 # digitech-wiki📙
 
-<img src="https://digitech-wiki.gwon.us/assets/image/Screenshot.JPG" width="400" height="300">
+<img src="https://digitech-wiki.gwon.us/assets/image/Screenshot.JPG" width="600">
 
 **[접속하기⚡](https://digitech-wiki.gwon.us)**
 
