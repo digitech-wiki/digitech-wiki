@@ -1,5 +1,7 @@
 # digitech-wiki📙
 
+![스크린샷](https://digitech-wiki.gwon.us/assets/image/Screenshot.JPG)
+
 **[접속하기⚡](https://digitech-wiki.gwon.us)**
 
 서울디지텍고등학교 교내 위키인 디지텍 위키입니다.
