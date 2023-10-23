@@ -2,7 +2,7 @@
 
 <img src="https://digitech-wiki.gwon.us/assets/image/Screenshot.JPG" width="750">
 
-**[접속하기⚡](https://digitech-wiki.gwon.us)**
+**[⚡접속하기⚡](https://digitech-wiki.gwon.us)**
 
 [![방문자수](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%230171BB&title_bg=%23FF0000&icon=googlescholar.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
