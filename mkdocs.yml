@@ -16,9 +16,6 @@ theme:
     repo: fontawesome/brands/github
     edit: material/pencil
     view: material/eye
-plugins:
-  - git-revision-date-localized:
-      enable_creation_date: true
 extra:
   social:
     - icon: fontawesome/brands/github
