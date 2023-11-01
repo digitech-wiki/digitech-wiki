@@ -23,6 +23,13 @@
 - `mkdocs build` - Build the documentation site.
 - `mkdocs -h` - Print help message and exit.
 
+#기여자들
+<a href="https://github.com/digitech-wiki/digitech-wiki/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=digitech-wiki/digitech-wiki" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
+
 # 트러블 슈팅
 
 ## 클라우드플레어 clone 문제
