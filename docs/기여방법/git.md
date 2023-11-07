@@ -13,7 +13,10 @@
 **fork된 자신의 리포지토리를 clone한다.**
 
 ![Alt text](clone.png)
-Code 버튼을 누르면 나오는 주소를 복사한 뒤 ``git clone https://github.com/maldron0309/digitech-wiki.git`` 
+Code 버튼을 누르면 나오는 주소를 복사한 뒤 
+
+``git clone https://github.com/maldron0309/digitech-wiki.git`` 
+
 > 위 주소는 예시이므로 자신의 리포지토리를 clone해야한다
 
 ## Commit and Push
