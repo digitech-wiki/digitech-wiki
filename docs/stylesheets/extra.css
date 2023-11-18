@@ -3,3 +3,37 @@
 :root {
   --md-text-font: Pretendard;
 }
+
+.metadata {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  margin-bottom: 15px;
+  color: #3b3b3b;
+  font-size: 0.85em;
+}
+.metadata.page-metadata .contributors-text {
+  margin-right: 5px;
+}
+body[dir='rtl'] .metadata.page-metadata .contributors-text {
+  margin-right: 0;
+  margin-left: 5px;
+}
+.page-metadata .contributors {
+  display: flex;
+  list-style: none;
+  margin: 0 !important;
+  margin-top: 12px !important;
+  padding: 0 !important;
+}
+.page-metadata .contributors li {
+  width: 3rem;
+  display: inline-block;
+  vertical-align: top;
+  margin: 0;
+  padding: 0;
+}
+
+.contributors li a img {
+  border-radius: 100vh;
+}

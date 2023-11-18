@@ -1,6 +1,7 @@
 site_name: 디지텍 위키
 theme:
   name: material
+  custom_dir: overrides
   language: ko
   features:
     - navigation.tabs
@@ -17,6 +18,10 @@ theme:
     repo: fontawesome/brands/github
     edit: material/pencil
     view: material/eye
+plugins:
+  - git-committers:
+      repository: digitech-wiki/digitech-wiki
+      branch: main
 extra:
   social:
     - icon: fontawesome/brands/github

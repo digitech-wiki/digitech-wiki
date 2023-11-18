@@ -1,0 +1,37 @@
+{% block footer %}
+
+<ul
+  class="metadata page-metadata"
+  data-bi-name="page info"
+  lang="kr-ko"
+  dir="ltr"
+>
+  <hr />
+  <li class="last-updated-holder displayDate loading">
+    <span class="last-updated-text">마지막 수정:</span>
+    <time
+      role="presentation"
+      datetime="2018-10-25T00:00:00.000Z"
+      data-article-date-source="ms.date"
+      >{% if last_commit_date %}{{ last_commit_date }}{% endif %}</time
+    >
+  </li>
+
+  <li class="contributors-holder">
+    <span class="contributors-text">이 문서를 빛낸 기여자들✨: </span>
+    <ul class="contributors" data-bi-name="contributors">
+      {%- for user in committers -%}
+      <li>
+        <a
+          href="{{ user.url }}"
+          title="{{ user.name }}"
+          data-bi-name="contributorprofile"
+          target="_blank"
+          ><img src="{{ user.avatar }}" alt="{{ user.name }}"
+        /></a>
+      </li>
+      {%- endfor -%}
+    </ul>
+  </li>
+</ul>
+{% endblock %}
