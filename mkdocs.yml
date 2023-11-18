@@ -13,7 +13,6 @@ theme:
     - navigation.sections
     - content.action.edit
     - content.action.view
-    - toc.integrate
   icon:
     repo: fontawesome/brands/github
     edit: material/pencil
