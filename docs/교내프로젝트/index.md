@@ -11,3 +11,12 @@
 용산 03 버스의 종류와 대기 시간을 알려주는 카카오톡 봇
 
 [상세보기](./용산03봇.md)
+
+## MagneTimer
+
+![image](https://github.com/user-attachments/assets/952a5956-fd23-49eb-a400-f0be66e75f68)
+
+NFC 태그형 스터디 어플리케이션
+
+[상세보기](./MagneTimer.md)
+
