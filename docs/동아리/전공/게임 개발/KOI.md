@@ -1,4 +1,4 @@
-# 동아리-템플릿
+# KOI
 
 ![image](https://github.com/user-attachments/assets/7832e156-6467-417f-b0d2-2700701d7c9d)
 
